@@ -8,3 +8,12 @@
 .product div {
   padding: 5px;
 }
+
+.btn-regular {
+  background-color: rgb(189, 164, 22);
+  width: 160px;
+  height: 40px;
+  border: 1px solid lightslategray;
+  border-radius: 10px;
+  cursor: pointer;
+}
