@@ -1,12 +1,10 @@
 .product {
-  background-color: black;
-  color: antiquewhite;
+  display: flex;
   margin: 10px;
   padding: 10px;
+  border-bottom: 2px solid lightslategray;
 }
 
-.product {
-  display: flex;
-
-  /* grid-template-columns: 3fr 1fr; */
+.product div {
+  padding: 5px;
 }
